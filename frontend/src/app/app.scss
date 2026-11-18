@@ -1,0 +1,34 @@
+:host {
+  display: block;
+  min-height: 100vh;
+}
+
+.app-shell {
+  margin: 0 auto;
+  max-width: 72rem;
+  padding: 1.5rem;
+}
+
+.app-header {
+  align-items: center;
+  border-bottom: 1px solid #dce3e8;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+}
+
+.brand {
+  color: #16324f;
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+nav a {
+  color: #315c78;
+  text-decoration: none;
+}
+
+.app-main {
+  padding: 3rem 0;
+}
